@@ -1,4 +1,4 @@
-FROM php:7.4.0-apache-buster
+FROM php:7.3.12-apache-buster
 
 ENV COMPOSER_ALLOW_SUPERUSER 1
 
